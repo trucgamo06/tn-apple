@@ -34,7 +34,7 @@ export default function Hero() {
           
           <div className="max-w-4xl w-full px-4">
             <img 
-              src="https://images.unsplash.com/photo-1727188315183-05708899806e?auto=format&fit=crop&q=80&w=1200" 
+              src="https://images2.thanhnien.vn/528068263637045248/2024/9/9/1-172590923603916053337.jpg" 
               alt="iPhone 16 Pro Max Hero"
               className="w-full h-auto object-cover rounded-t-3xl shadow-2xl shadow-amber-500/5 border-t border-x border-white/5"
               referrerPolicy="no-referrer"
