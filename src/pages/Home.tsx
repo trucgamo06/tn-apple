@@ -76,7 +76,7 @@ export default function Home() {
               whileInView={{ opacity: 1, scale: 1, rotate: 0 }}
               transition={{ duration: 1, delay: 0.2 }}
               viewport={{ once: true }}
-              src="https://images.unsplash.com/photo-1727280053733-4082d6b38c22?auto=format&fit=crop&q=80&w=800"
+              src="https://cdnv2.tgdd.vn/mwg-static/common/News/1569700/messageImage_1725918893002.jpg"
               alt="iPhone 16"
               className="w-full h-auto object-contain drop-shadow-2xl"
               referrerPolicy="no-referrer"
